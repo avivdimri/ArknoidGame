@@ -10,4 +10,4 @@ Enjoy!
 
 <img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/80414213/116703244-bb90fe00-a9d2-11eb-9e33-95cef77c54fc.png">
 
-<img width="248" alt="Picture2" src="https://user-images.githubusercontent.com/80414213/116708208-24c74000-a9d8-11eb-81b1-a8f5ebfefcce.png">
+<img width="314" alt="Picture1" src="https://user-images.githubusercontent.com/80414213/116708308-40324b00-a9d8-11eb-81be-01aa93822633.png">
