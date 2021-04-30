@@ -8,6 +8,8 @@ but you can choose to start from any level you want by sending the relevant para
 Enjoy!
 
 
-<img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/80414213/116703244-bb90fe00-a9d2-11eb-9e33-95cef77c54fc.png">
-<img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/80414213/116708529-77086100-a9d8-11eb-863d-aa1d3ae21505.png">
-<img width="468" alt="aa" src="https://user-images.githubusercontent.com/80414213/116719831-31519580-a9e4-11eb-8417-78e4826f6b79.png">
+<img width="480" alt="Picture1" src="https://user-images.githubusercontent.com/80414213/116703244-bb90fe00-a9d2-11eb-9e33-95cef77c54fc.png">
+<img width="480" alt="Picture1" src="https://user-images.githubusercontent.com/80414213/116708529-77086100-a9d8-11eb-863d-aa1d3ae21505.png">
+<img width="480" alt="aa" src="https://user-images.githubusercontent.com/80414213/116719831-31519580-a9e4-11eb-8417-78e4826f6b79.png">
+
+<img width="480" alt="bb" src="https://user-images.githubusercontent.com/80414213/116720120-842b4d00-a9e4-11eb-873d-f5161779923e.png">
