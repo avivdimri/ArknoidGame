@@ -1,10 +1,15 @@
 # ArknoidGame
 Please include biuoop-1.4.jar to your project for GUI Support.
+
 This project implements Arkanoid game, using Java and OOP.
 
 There are 3 component in this project : Ball, Blocks and Paddle.
+
 Pay attention that the game runs the 1st level first by default,
-but you can choose to start from any level you want by sending the relevant parameter when running.
+
+but you can choose to start from any level you want by 
+sending the relevant parameter when running.
+
 Enjoy!
 
 
